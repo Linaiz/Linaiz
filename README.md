@@ -22,7 +22,7 @@ I am passionate about creating things and solving problems. I like to think that
 ### Let's Connect!
 <picture>
   <a href="https://www.linkedin.com/in/paulinawykowska/">
-  <img alt="LinkedIn" height="30px" src="./img/LinkedIn_icon.svg">
+    <img alt="LinkedIn" height="30px" src="./img/LinkedIn_icon.svg">
   </a>
 </picture>
 
@@ -30,9 +30,16 @@ I am passionate about creating things and solving problems. I like to think that
 # My Projects
 I would like to highlight some of my favorite projects that I have worked on.
 
+
 <p align="left">
-  [![Pool by Linaiz](https://itch.io/embed/1118314)](https://linaiz.itch.io/pool)
-    
+  <a href="https://linaiz.itch.io/pool" >
+    <img alt="Pool Game" src="./img/pool.gif" height="200" align="left"/>
+  </a>
+   <img alt="empty" src="./img/empty.png" height="200" width="20" align="left"/>
+  <h3><a href="https://linaiz.itch.io/pool" >Pool Game</a></h3>
+  <b>JavaScript, Three.js</b>
+  <p>Developed using primitve shapes, with applied textures. Physics and collisions programmed from scratch in JavaScript.</p>
+
 </p>
 
 
