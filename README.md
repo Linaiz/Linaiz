@@ -9,19 +9,15 @@ I am passionate about creating things and solving problems. I like to think that
 
 
 ### Languages and Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/c.svg" style="padding-right:10px;" /> C
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/c-original.svg" style="padding-right:10px;" /> C++
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/csharp.svg" style="padding-right:10px;" /> C#
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/python.svg" style="padding-right:10px;" /> Python
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/swift.svg" style="padding-right:10px;" /> Swift
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/unity-3d.svg" style="padding-right:10px;" /> Unity
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/unreal-engine.svg" style="padding-right:10px;" /> Unreal Engine
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/linux.svg" style="padding-right:10px;" /> Linux
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/opengl" style="padding-right:10px;" /> OpenGL
+🤖 C, C#, C++  
+🐍 Python  
+🐦 Swift  
+👾 Unity, Unreal Engine  
+☕ Java  
+🌐 JavaScript  
+🎥 OpenGL  
+🐧 Linux  
 
-
-<br />
-<br />
 
 ### Let's Connect!
 <picture>
@@ -36,6 +32,17 @@ I am passionate about creating things and solving problems. I like to think that
 
 ---
 
+<!--
+<img align="left" alt="C" height="28px" src="./img/c.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" height="28px" src="./img/c-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="C#" height="28px" src="./img/csharp.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" height="28px" src="./img/python.svg" style="padding-right:10px;" />
+<img align="left" alt="Swift" height="28px" src="./img/swift.svg" style="padding-right:10px;" />
+<img align="left" alt="Unity" height="28px" src="./img/unity-3d.svg" style="padding-right:10px;" />
+<img align="left" alt="Unreal Engine" height="28px" src="./img/unreal-engine.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" height="28px" src="./img/linux.svg" style="padding-right:10px;" />
+<img align="left" alt="OpenGL" height="28px" src="./img/opengl.svg" style="padding-top:10px;" />
+-->
 
 <!--
 **Linaiz/Linaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
