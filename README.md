@@ -53,26 +53,26 @@ I would like to highlight some of my favorite projects that I have worked on.
 
 <p align="left">
   <a href="https://hamyah.itch.io/baku" >
-    <img alt="Pool Game" src="./img/baku.gif" height="200" align="left"/>
+    <img alt="Baku" src="./img/baku.gif" height="170" align="left"/>
   </a>
-  <img alt="empty" src="./img/empty.png" height="200" width="20" align="left"/>
+  <img alt="empty" src="./img/empty.png" height="170" width="20" align="left"/>
   
-  <h3><a href="https://colorcrow.itch.io/time-is-ticking" >Baku - Point and Click</a></h3>
+  <h3><a href="https://colorcrow.itch.io/time-is-ticking" >Baku - Point and Click Game</a></h3>
   <b>Unity, C#</b>
-  <p>Game for the Nordic Game Jam 2023, developed in 48h. The player needs to supervise different dreams (rooms) and prevent nightmares from spawning by clicking on them as soon as they appear.</p>
+  <p>Game for the <b>Nordic Game Jam 2023</b>, developed in 48h. The player needs to supervise different dreams (rooms) and prevent nightmares from spawning by clicking on them as soon as they appear.</p>
 </p>
-</br></br></br>
+</br>
 
 <p align="left">
   <a href="https://colorcrow.itch.io/time-is-ticking" >
-    <img alt="Pool Game" src="./img/timeisticking.gif" height="200" align="left"/>
+    <img alt="Time is Ticking" src="./img/timeisticking.gif" height="170" align="left"/>
   </a>
-   <img alt="empty" src="./img/empty.png" height="200" width="20" align="left"/>
+   <img alt="empty" src="./img/empty.png" height="170" width="20" align="left"/>
   <h3><a href="https://colorcrow.itch.io/time-is-ticking" >Time is Ticking - Platformer Game</a></h3>
   <b>Unreal Engine, Blueprints</b>
   <p>Platformer game developed in 48h for the Ludum Dare game jam. In a team of 3 people, I was tasked with creating and integrating the 2D assets in the game.</p>
 </p>
-</br></br></br>
+</br>
 
 
 <!--
