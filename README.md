@@ -8,18 +8,40 @@ I am passionate about creating things and solving problems. I like to think that
 - 👩‍💻I am currently looking to join an interesting project and kickstart my professional career.
 
 
+### Languages and Tools
+<img align="left" alt="Visual Studio Code" width="26px" src="./img/c.svg" style="padding-right:10px;" /> C
+<img align="left" alt="Visual Studio Code" width="26px" src="./img/c-original.svg" style="padding-right:10px;" /> C++
+<img align="left" alt="Visual Studio Code" width="26px" src="./img/csharp.svg" style="padding-right:10px;" /> C#
+<img align="left" alt="Visual Studio Code" width="26px" src="./img/python.svg" style="padding-right:10px;" /> Python
+<img align="left" alt="Visual Studio Code" width="26px" src="./img/swift.svg" style="padding-right:10px;" /> Swift
+<img align="left" alt="Visual Studio Code" width="26px" src="./img/unity-3d.svg" style="padding-right:10px;" /> Unity
+<img align="left" alt="Visual Studio Code" width="26px" src="./img/unreal-engine.svg" style="padding-right:10px;" /> Unreal Engine
+<img align="left" alt="Visual Studio Code" width="26px" src="./img/linux.svg" style="padding-right:10px;" /> Linux
+<img align="left" alt="Visual Studio Code" width="26px" src="./img/opengl" style="padding-right:10px;" /> OpenGL
+
+
+<br />
+<br />
+
+### Let's Connect!
+<picture>
+  <a href="https://www.linkedin.com/in/paulinawykowska/">
+  <source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./img/linkedin-light.svg">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./img/linkedin-light.svg">
+  </a>
+</picture>
+
+
+
 ---
 
 
 <!--
-
-
-### Languages and Tools
-
-### Let's Connect!
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/paulinawykowska/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/paulinawykowska/#gh-dark-mode-only)
 **Linaiz/Linaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/paulinawykowska/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/paulinawykowska/)
 
 Here are some ideas to get you started:
 
