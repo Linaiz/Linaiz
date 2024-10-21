@@ -38,9 +38,22 @@ I would like to highlight some of my favorite projects that I have worked on.
    <img alt="empty" src="./img/empty.png" height="200" width="20" align="left"/>
   <h3><a href="https://linaiz.itch.io/pool" >Pool Game</a></h3>
   <b>JavaScript, Three.js</b>
-  <p>Developed using primitve shapes, with applied textures. Physics and collisions programmed from scratch in JavaScript.</p>
-
+  <p>Pool game developed using primitve shapes, with applied textures. Physics and collisions programmed from scratch in JavaScript. Shoot the white ball and see if you manage to get any of the balls into one of the six pockets!</p>
 </p>
+
+</br></br></br>
+
+<!--
+<p align="left">
+  <a href="https://linaiz.itch.io/pool" >
+    <img alt="Pool Game" src="./img/pool.gif" height="200" align="left"/>
+  </a>
+   <img alt="empty" src="./img/empty.png" height="200" width="20" align="left"/>
+  <h3><a href="https://linaiz.itch.io/pool" >Pool Game</a></h3>
+  <b>JavaScript, Three.js</b>
+  <p>Pool game developed using primitve shapes, with applied textures. Physics and collisions programmed from scratch in JavaScript. Shoot the white ball and see if you manage to get any of the balls into one of the six pockets!</p>
+</p>
+-->
 
 
 <!--
