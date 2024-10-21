@@ -25,6 +25,13 @@ I am passionate about creating things and solving problems. I like to think that
     <img alt="LinkedIn" height="30px" src="./img/LinkedIn_icon.svg">
   </a>
 </picture>
+&nbsp;
+
+<picture>
+  <a href="https://linaiz.itch.io/">
+    <img alt="itch.io" height="30px" src="./img/itchio.png">
+  </a>
+</picture>
 
 ---
 # My Projects
@@ -43,17 +50,17 @@ I would like to highlight some of my favorite projects that I have worked on.
 
 </br></br></br>
 
-<!--
+
 <p align="left">
   <a href="https://linaiz.itch.io/pool" >
-    <img alt="Pool Game" src="./img/pool.gif" height="200" align="left"/>
+    <img alt="Pool Game" src="./img/timeisticking.gif" height="200" align="left"/>
   </a>
    <img alt="empty" src="./img/empty.png" height="200" width="20" align="left"/>
-  <h3><a href="https://linaiz.itch.io/pool" >Pool Game</a></h3>
-  <b>JavaScript, Three.js</b>
-  <p>Pool game developed using primitve shapes, with applied textures. Physics and collisions programmed from scratch in JavaScript. Shoot the white ball and see if you manage to get any of the balls into one of the six pockets!</p>
+  <h3><a href="https://colorcrow.itch.io/time-is-ticking" >Platformer Game - Time is Ticking</a></h3>
+  <b>Unreal Engine, Blueprints</b>
+  <p>Platformer game developed in 48h for the Ludum Dare game jam. In a team of 3 people, I was tasked with creating and integrating the 2D assets in the game.</p>
 </p>
--->
+
 
 
 <!--
