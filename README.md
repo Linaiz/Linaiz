@@ -3,9 +3,9 @@
 
 I am passionate about creating things and solving problems. I like to think that's what makes me a great programmer - I really enjoy it! 
 
-- 🎓I've just graduated from my Master's Degree in Computer Science, with a final grade of 19/20 on my thesis.
-- 🎮I like developing video games in my free time. I have been doing that as a coordinator at [GameDev Técnico](https://gamedev.tecnico.ulisboa.pt/) for 4 years now.
-- 👩‍💻I am currently looking to join an interesting project and kickstart my professional career.
+- 🎓 I've just graduated from my Master's Degree in Computer Science, with a final grade of 19/20 on my thesis.
+- 🎮 I like developing video games in my free time. I have been doing that as a coordinator at [GameDev Técnico](https://gamedev.tecnico.ulisboa.pt/) for 4 years now.
+- 👩‍💻 I am currently looking to join an interesting project and kickstart my professional career.
 
 
 ### Languages and Tools
