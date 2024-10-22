@@ -36,7 +36,7 @@ I am passionate about creating things and solving problems. I like to think that
 ---
 <details open> 
 <summary><h1>My Projects</h3></summary>
-I would like to highlight some of my favorite projects that I have worked on. All my projects can be found on my <a href="https://linaiz.itch.io/">itch.io</a>.
+I would like to highlight some of my favorite projects that I have worked on. More of my projects can be found on my <a href="https://linaiz.itch.io/">itch.io</a>.
 </br></br>
   
 <p align="left">
@@ -72,6 +72,7 @@ I would like to highlight some of my favorite projects that I have worked on. Al
   <b>Unity, C#</b>
   <p>Multiplayer game where you play as a shopping cart and compete against other players, either in Race mode or Capture The Croissant mode! I worked mostly on the UI, loading screens and animations in the game inside Unity.</p>
 </p>
+<br>
 
 <p align="left">
   <a href="https://edswordsmith.itch.io/roll-the-die" >
