@@ -34,58 +34,79 @@ I am passionate about creating things and solving problems. I like to think that
 </picture>
 
 ---
-# My Projects
-I would like to highlight some of my favorite projects that I have worked on.
-
-
+<details open> 
+<summary><h1>My Projects</h3></summary>
+I would like to highlight some of my favorite projects that I have worked on. All my projects can be found on my <a href="https://linaiz.itch.io/">itch.io</a>.
+</br></br>
   
 <p align="left">
   <a href="https://linaiz.itch.io/pool" >
-    <img alt="Pool Game" src="./img/pool.gif" height="200" align="left"/>
+    <img alt="Pool Game" src="./img/pool.gif" height="180" align="left"/>
   </a>
-  <img alt="empty" src="./img/empty.png" height="200" width="20" align="left"/>
+  <img alt="empty" src="./img/empty.png" height="180" width="10" align="left"/>
   
   <h3><a href="https://linaiz.itch.io/pool" >Pool Game</a></h3>
   <b>JavaScript, Three.js</b>
   <p>Pool game developed using primitve shapes, with applied textures. Physics and collisions programmed from scratch in JavaScript. Shoot the white ball and see if you manage to get any of the balls into one of the six pockets!</p>
 </p>
-</br></br></br>
+</br>
 
 <p align="left">
   <a href="https://hamyah.itch.io/baku" >
-    <img alt="Baku" src="./img/baku.gif" height="170" align="left"/>
+    <img alt="Baku" src="./img/baku.gif" height="150" align="left"/>
   </a>
-  <img alt="empty" src="./img/empty.png" height="170" width="20" align="left"/>
+  <img alt="empty" src="./img/empty.png" height="150" width="10" align="left"/>
   
   <h3><a href="https://hamyah.itch.io/baku" >Baku - Point and Click Game</a></h3>
   <b>Unity, C#</b>
   <p>Game for the <b>Nordic Game Jam 2023</b>, developed in 48h. The player needs to supervise different dreams (rooms) and prevent nightmares from spawning by clicking on them as soon as they appear.</p>
 </p>
-</br>
 
 <p align="left">
   <a href="https://smashcart-ultra.itch.io/smashcart-ultra" >
-    <img alt="Baku" src="./img/smashcart.gif" height="170" align="left"/>
+    <img alt="Baku" src="./img/smashcart.gif" height="150" align="left"/>
   </a>
-  <img alt="empty" src="./img/empty.png" height="170" width="20" align="left"/>
+  <img alt="empty" src="./img/empty.png" height="150" width="10" align="left"/>
   
-  <h3><a href="https://smashcart-ultra.itch.io/smashcart-ultra" >Smashcart- Multiplayer Game</a></h3>
+  <h3><a href="https://smashcart-ultra.itch.io/smashcart-ultra" >Smashcart - Multiplayer Game</a></h3>
   <b>Unity, C#</b>
   <p>Multiplayer game where you play as a shopping cart and compete against other players, either in Race mode or Capture The Croissant mode! I worked mostly on the UI, loading screens and animations in the game inside Unity.</p>
 </p>
-</br>
+
+<p align="left">
+  <a href="https://edswordsmith.itch.io/roll-the-die" >
+    <img alt="Roll, The Die" src="./img/roll.gif" height="150" align="left"/>
+  </a>
+  <img alt="empty" src="./img/empty.png" height="150" width="10" align="left"/>
+  
+  <h3><a href="https://edswordsmith.itch.io/roll-the-die" >Roll, The Die - Top Down Shooter Game</a></h3>
+  <b>Unity, C#, Aseprite</b>
+  <p>Developed in 48h for the GMTK Game Jam. The player plays as a die character. Rolling the die allows for randomly swapping between different attacks. The enemies are hands!</p>
+</p>
+<br>
+
+<p align="left">
+  <img alt="Power Pong" src="./img/pong.gif" height="150" align="left"/>
+  <img alt="empty" src="./img/empty.png" height="150" width="10" align="left"/>
+  
+  <h3><a href="" >Power Pong - a twist on classic pong</a></h3>
+  <b>Unity, C#, Photoshop</b>
+  <p>Power Pong is a 2-player game. The players use their cosmic shields to deflect the incoming ball and defend their planet. Occasional power ups spawn in the game.</p>
+</p>
+<br>
 
 <p align="left">
   <a href="https://colorcrow.itch.io/time-is-ticking" >
-    <img alt="Time is Ticking" src="./img/timeisticking.gif" height="170" align="left"/>
+    <img alt="Time is Ticking" src="./img/timeisticking.gif" height="150" align="left"/>
   </a>
-   <img alt="empty" src="./img/empty.png" height="170" width="20" align="left"/>
+   <img alt="empty" src="./img/empty.png" height="150" width="10" align="left"/>
+  
   <h3><a href="https://colorcrow.itch.io/time-is-ticking" >Time is Ticking - Platformer Game</a></h3>
   <b>Unreal Engine, Blueprints</b>
   <p>Platformer game developed in 48h for the Ludum Dare game jam. In a team of 3 people, I was tasked with creating and integrating the 2D assets in the game.</p>
 </p>
-</br>
 
+</details>
 
 <!--
 <img align="left" alt="C" height="28px" src="./img/c.svg" style="padding-right:10px;" />
