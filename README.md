@@ -57,9 +57,21 @@ I would like to highlight some of my favorite projects that I have worked on.
   </a>
   <img alt="empty" src="./img/empty.png" height="170" width="20" align="left"/>
   
-  <h3><a href="https://colorcrow.itch.io/time-is-ticking" >Baku - Point and Click Game</a></h3>
+  <h3><a href="https://hamyah.itch.io/baku" >Baku - Point and Click Game</a></h3>
   <b>Unity, C#</b>
   <p>Game for the <b>Nordic Game Jam 2023</b>, developed in 48h. The player needs to supervise different dreams (rooms) and prevent nightmares from spawning by clicking on them as soon as they appear.</p>
+</p>
+</br>
+
+<p align="left">
+  <a href="https://smashcart-ultra.itch.io/smashcart-ultra" >
+    <img alt="Baku" src="./img/smashcart.gif" height="170" align="left"/>
+  </a>
+  <img alt="empty" src="./img/empty.png" height="170" width="20" align="left"/>
+  
+  <h3><a href="https://smashcart-ultra.itch.io/smashcart-ultra" >Smashcart- Multiplayer Game</a></h3>
+  <b>Unity, C#</b>
+  <p>Multiplayer game where you play as a shopping cart and compete against other players, either in Race mode or Capture The Croissant mode! I worked mostly on the UI, loading screens and animations in the game inside Unity.</p>
 </p>
 </br>
 
