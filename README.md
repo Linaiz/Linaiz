@@ -9,7 +9,7 @@ I am passionate about creating things and solving problems. I like to think that
 
 
 ### Languages and Tools
-🤖 C, C#, C++  
+🤖 C/C++, C#  
 🐍 Python  
 🐦 Swift  
 👾 Unity, Unreal Engine  
